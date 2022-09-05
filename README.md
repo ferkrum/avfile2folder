@@ -14,13 +14,17 @@ The final folder structure shoud be: YYYY-MM-DD/filename.JPG (or .MP4, or .MOV)
 -- currently working with ".JPG, .MOV and .MP4" extensions. 
 
 
-Hope this save you as much time as it did to me! 
+
+
+Hope this saves you as much time as it did to me!
+
 :-)
 
 
 Fernando.
 
 version 1.0
+
 5 sep 2022.
 
 
