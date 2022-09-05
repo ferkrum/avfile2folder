@@ -11,9 +11,18 @@ The final folder structure shoud be: YYYY-MM-DD/filename.JPG (or .MP4, or .MOV)
 5. Run 'python3 avfile2folder.py'
 6. Done !
 
+## Requirements:
+
+(also included in 'requirements.txt')
+
+Pillow==9.2.0
+
+pymediainfo==5.1.0
+
+
 -- currently working with ".JPG, .MOV and .MP4" extensions. 
 
-
+## ..
 
 
 Hope this saves you as much time as it did to me!
@@ -31,12 +40,6 @@ version 1.0
 
 
 
-## Requirements:
 
-(also included in 'requirements.txt')
-
-Pillow==9.2.0
-
-pymediainfo==5.1.0
 
 
