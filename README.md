@@ -32,8 +32,11 @@ version 1.0
 
 
 ## Requirements:
+
 (also included in 'requirements.txt')
+
 Pillow==9.2.0
+
 pymediainfo==5.1.0
 
 
